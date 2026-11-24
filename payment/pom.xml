@@ -9,7 +9,7 @@
 
   <groupId>in.ashokit</groupId>
   <artifactId>payment</artifactId>
-  <version>0.1.1-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version>
 
   <name>payment</name>
   <!-- FIXME change it to the project's website -->
